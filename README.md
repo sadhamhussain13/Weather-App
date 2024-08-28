@@ -11,9 +11,9 @@ WeatherApp is a sleek and responsive weather application built with React. It al
 - **Error Handling**: Informs users if a city is not found or if there is an error fetching data.
 - **Responsive Design**: Adapted for both desktop and mobile viewing.
 
-## Screenshots
+## Preview
 
-![Screenshot (130)](https://github.com/user-attachments/assets/5db24e1c-8e6f-4fdb-8f57-f2d22f5683e9)
+![Screenshot (130)](https://github.com/user-attachments/assets/456a7fc0-6c30-4af3-a6f3-8ce961a2c941)
 
 ## Installation
 
